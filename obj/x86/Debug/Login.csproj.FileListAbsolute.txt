@@ -1,0 +1,20 @@
+D:\C#\Login\bin\Debug\Login.exe
+D:\C#\Login\bin\Debug\Login.pdb
+D:\C#\Login\obj\x86\Debug\Login.Form1.resources
+D:\C#\Login\obj\x86\Debug\Login.Properties.Resources.resources
+D:\C#\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+D:\C#\Login\obj\x86\Debug\Login.exe
+D:\C#\Login\obj\x86\Debug\Login.pdb
+D:\C#\Login\obj\x86\Debug\Login.Form2.resources
+D:\C#\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+D:\C#\Login\obj\x86\Debug\Login.Quotation.resources
+C:\Users\NTOS\Desktop\Project Filnal\Login\bin\Debug\Login.exe
+C:\Users\NTOS\Desktop\Project Filnal\Login\bin\Debug\Login.pdb
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.csprojAssemblyReference.cache
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.Quotation.resources
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.csproj.GenerateResource.cache
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.exe
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.pdb
