@@ -1,0 +1,33 @@
+C:\Users\NTOS\Desktop\Project Filnal\Login\bin\Debug\Login.exe
+C:\Users\NTOS\Desktop\Project Filnal\Login\bin\Debug\Login.pdb
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.Login.resources
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.MainSASCO.resources
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\SASCOSYSTEM.csproj.GenerateResource.cache
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.exe
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.pdb
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\SASCOSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\NTOS\Desktop\Project Filnal\Login\obj\x86\Debug\Login.OP.resources
+C:\Users\pat_a\Desktop\Login\bin\Debug\Login.exe
+C:\Users\pat_a\Desktop\Login\bin\Debug\Login.pdb
+C:\Users\pat_a\Desktop\Login\obj\x86\Debug\SASCOSYSTEM.csprojAssemblyReference.cache
+C:\Users\pat_a\Desktop\Login\obj\x86\Debug\Login.Login.resources
+C:\Users\pat_a\Desktop\Login\obj\x86\Debug\Login.MainSASCO.resources
+C:\Users\pat_a\Desktop\Login\obj\x86\Debug\Login.OP.resources
+C:\Users\pat_a\Desktop\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\pat_a\Desktop\Login\obj\x86\Debug\SASCOSYSTEM.csproj.GenerateResource.cache
+C:\Users\pat_a\Desktop\Login\obj\x86\Debug\Login.exe
+C:\Users\pat_a\Desktop\Login\obj\x86\Debug\Login.pdb
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\Login.exe
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\Login.pdb
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\bin\Debug\Login.exe
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\bin\Debug\Login.pdb
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\SASCOSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\Login.Login.resources
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\Login.MainSASCO.resources
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\SASCOSYSTEM.csproj.GenerateResource.Cache
+I:\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\Login.exe
+I:\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\Login.pdb
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\Login.Oder.resources
+C:\Users\Natthakit\Desktop\Project Filnal\Project-Final-Oven-frist\obj\x86\Debug\Login.UserControl1.resources
