@@ -15,5 +15,10 @@ namespace SASCOSYSTEM
         {
             InitializeComponent();
         }
+
+        private void label47_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

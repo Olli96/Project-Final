@@ -7,3 +7,12 @@ C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\
 C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.pdb
 C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form2.resources
 C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form3.resources
+C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.exe
+C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.pdb
+C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form1.resources
+C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form2.resources
+C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form3.resources
+C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Properties.Resources.resources
+C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.UserControl1.resources
+C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.csproj.GenerateResource.Cache
