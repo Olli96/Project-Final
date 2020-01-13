@@ -1,0 +1,9 @@
+C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\bin\Debug\SASCOSYSTEM.exe
+C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\bin\Debug\SASCOSYSTEM.pdb
+C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form1.resources
+C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Properties.Resources.resources
+C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.csproj.GenerateResource.Cache
+C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.exe
+C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.pdb
+C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form2.resources
+C:\Users\Natthakit\Desktop\Project Filnal\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form3.resources
